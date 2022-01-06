@@ -13,7 +13,7 @@
 
 ### Week 3 - present
 - [ ] Preprocessing
-  - [ ] Extract emojis as text
+  - [x] Extract emojis as text
   - [ ] Augment data using nlpaug (https://github.com/makcedward/nlpaug)
   - [ ] Extract domain from links
 - [ ] Modelling
