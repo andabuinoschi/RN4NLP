@@ -12,10 +12,10 @@
 - [x] Extract links from short-URLs
 
 ### Week 3 - present
-- [ ] Preprocessing
+- [x] Preprocessing
   - [x] Extract emojis as text
-  - [ ] Augment data using nlpaug (https://github.com/makcedward/nlpaug)
-  - [ ] Extract domain from links
+  - [x] Augment data using nlpaug (https://github.com/makcedward/nlpaug)
+  - [x] Extract domain from links
 - [ ] Modelling
   - [ ] Naive Bayes with Laplace add-one smoothing and Glove/word2vec embedding
   - [ ] LSTM model
