@@ -131,4 +131,5 @@ dmypy.json
 # VScode
 .vscode/
 
-transformer-model/vectors*
+transformer-model/vectors/*
+*.npy
